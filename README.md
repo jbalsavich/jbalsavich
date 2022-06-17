@@ -9,8 +9,6 @@
 </br>
 </br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbalsavich.jbalsavich)
-[![GitHub followers](https://img.shields.io/github/followers/jbalsavich.svg?style=social&label=Follow)](https://github.com/jbalsavich?tab=followers)
 
 
 
