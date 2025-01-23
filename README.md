@@ -6,7 +6,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [joseph.balsavich@gmail.com](mailto:joseph.balsavich@gmail.com)
 
 ### Skills
 
